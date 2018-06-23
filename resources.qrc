@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>gfx_sokoban/kafelka.png</file>
+        <file>gfx_sokoban/kafelka2.png</file>
+        <file>gfx_sokoban/kamien_hi1.png</file>
+        <file>gfx_sokoban/kamien1.png</file>
+        <file>gfx_sokoban/murek.png</file>
+        <file>gfx_sokoban/user.png</file>
+    </qresource>
+    <qresource prefix="/maps">
+        <file>maps/1.txt</file>
+        <file>maps/2.txt</file>
+        <file>maps/3.txt</file>
+        <file>maps/4.txt</file>
+        <file>maps/5.txt</file>
+        <file>maps/6.txt</file>
+        <file>maps/7.txt</file>
+        <file>maps/8.txt</file>
+        <file>maps/9.txt</file>
+        <file>maps/10.txt</file>
+    </qresource>
+</RCC>
